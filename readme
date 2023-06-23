@@ -1,0 +1,5 @@
+The full_pipe.py file calles three files: 1) Move_seqs_into_folder.py, 2) QIIME2_core.sh, and 3) extract_reports.py. 
+
+1) The first file transfers fastq.gz files into new folders named by the sample
+2) The second file runs a basic QIIME2 analysis.
+3) The third file extracts the report.json files and places them into a new folder. 
