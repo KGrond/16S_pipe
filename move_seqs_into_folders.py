@@ -1,7 +1,7 @@
 import os
 import shutil
 
-parent_folder = "/Users/kirstengrond/Desktop/Snapi/sequences/"
+parent_folder = "/Users/kirstengrond/Desktop/sequences/"
 
 # Create a set to store the unique folder names
 folder_names = set()
