@@ -1,8 +1,8 @@
 import os
 import shutil
 
-parent_folder = "/Users/kirstengrond/Desktop/Snapi/sequences"
-new_folder = "/Users/kirstengrond/Desktop/Snapi/reports_to_upload"
+parent_folder = "/Users/kirstengrond/Desktop/sequences"
+new_folder = "/Users/kirstengrond/Desktop/reports"
 
 # Create the new folder if it doesn't exist
 if not os.path.exists(new_folder):
